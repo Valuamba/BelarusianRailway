@@ -2,4 +2,19 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/RailwayBy/VSeleniumFramework/obj/project.assets.json
+
+*.json
+*.cache
+*.props
+*.targets
+*.dtbcache
+*.vs
+*.dll
+*.pdb
+
+
+\config.xml
+
+\obj
+\bin
+\v16
